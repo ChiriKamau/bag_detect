@@ -1,7 +1,7 @@
 import serial
 import time
 
-ports = ['/dev/ttyS0', '/dev/ttyAMA0', '/dev/ttyAMA1']
+ports = ['/dev/serial0', '/dev/ttyAMA0', '/dev/ttyS0']
 bauds = [115200, 9600]
 
 for port in ports:
