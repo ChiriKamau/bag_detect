@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 save_directory = "/home/test/webcam_images"
-delay_time = 120
+delay_time = 30
 
 if not os.path.exists(save_directory):
     os.makedirs(save_directory)
