@@ -20,7 +20,7 @@ COLORS       = {
     "trolley case": (  0,   0, 255),
     "tote bag":     (  0, 165, 255),
 }
-CONFIDENCE_THRESHOLD = 0.30
+CONFIDENCE_THRESHOLD = 0.40
 NMS_THRESHOLD        = 0.40
 CAPTURE_INTERVAL     = 2  # seconds
 # ==========================================
