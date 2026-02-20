@@ -9,7 +9,7 @@ from collections import Counter
 # CONFIG — edit these
 # ==========================================
 MODEL_PATH = "/home/test/bag_detect/models/best_dynamic_range_quant.tflite"
-IMAGE_PATH = "/home/test/bag_detect/images/market_1_00000195.jpg.jpg"
+IMAGE_PATH = "/home/test/bag_detect/images/market_1_00000195.jpg"
 OUTPUT_DIR = "/home/test/bag_detct/output"
 
 CLASSES = ["backpack", "satchel", "trolley case", "tote bag"]
