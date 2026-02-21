@@ -9,7 +9,7 @@ from collections import Counter
 # ==========================================
 # CONFIG
 # ==========================================
-MODEL_PATH   = "/home/test/bag_detect/models/best_dynamic_range_quant.tflite"
+MODEL_PATH   = "/home/test/bag_detect/models/best_float32.tflite"
 OUTPUT_DIR   = "/home/test/bag_detect/output"
 CAPTURE_DIR  = "/home/test/bag_detect/captures"
 
